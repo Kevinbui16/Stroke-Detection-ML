@@ -98,6 +98,11 @@ Below you can find a few snippets of the project
 </p>
 
 <p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/model_performance_overview.png" width=800><br/>
+  <i>Overview top models using LazyPredict(you can see this by running file stroke_top_overview.py)</i>
+</p>
+
+<p align="center">
   <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/RandomForest.png" width=800><br/>
   <i>RandomForest Performance Metrics(already implement best hyperameter and balanced data)</i>
 </p>
