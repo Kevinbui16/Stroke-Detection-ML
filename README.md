@@ -72,3 +72,49 @@ The first real project I worked on, taught me several things:
      
 Below you can find a few snippets of the project
 
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/imbalanced%20data.png" width=800><br/>
+  <i>Target have highly imbalanced data</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/before-after-balanced.png" width=800><br/>
+  <i>Before and After balanced data</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/correlation.png" width=800><br/>
+  <i>Correlation between features and target(can also check from features to features)</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/histogram.png" width=800><br/>
+  <i>Histogram for numerical features(see their distribution or find outliers)</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/value%20count.png" width=800><br/>
+  <i>Values count for categorical features</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/RandomForest.png" width=800><br/>
+  <i>RandomForest Performance Metrics(already implement best hyperameter and balanced data)</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/SVC.png" width=800><br/>
+  <i>SCV Performance Metrics(already implement best hyperameter and balanced data)</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Kevinbui16/Stroke-Detection-ML/blob/main/asset/DecisionTree.png" width=800><br/>
+  <i>DecisionTree Performance Metrics(already implement best hyperameter and balanced data)</i>
+</p>
+
+
+
+
+
+
+
