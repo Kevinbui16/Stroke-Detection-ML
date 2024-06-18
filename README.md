@@ -17,7 +17,7 @@ The hospital has patient information and needs an estimation of exactly which va
     - How well do those variables describe whether patient will have strokes or not
  
 ## Data Source
-This data set is taken from Kaggle, the link to which is: 
+This dataset is taken from Kaggle, the link to which is: 
   - https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset
 
 ## Features
